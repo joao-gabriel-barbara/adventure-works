@@ -82,7 +82,7 @@ fact_returns ──→ dim_calendar
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/adventureworks-bi
+git clone https://github.com/joao-gabriel-barbara/adventure-works
 
 # 2. Instale as dependências
 pip install pandas sqlalchemy

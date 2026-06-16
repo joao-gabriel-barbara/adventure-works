@@ -1,6 +1,9 @@
-# na raiz do projeto
+
 cat > .gitignore << 'EOF'
 database/
+
+echo "data/" >> .gitignore
+
 
 # CSVs exportados
 powerbi/data/

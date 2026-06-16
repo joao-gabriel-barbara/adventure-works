@@ -98,6 +98,6 @@ python export_to_csv.py
 
 ## Dashboard
 
-![Visão Geral](powerbi/screenshots/pagina1.png)
-![Produtos](powerbi/screenshots/pagina2.png)
-![Clientes](powerbi/screenshots/pagina3.png)
+![Visão Geral](screenshots/pagina01.png)
+![Produtos](screenshots/pagina02.png)
+![Clientes](screenshots/pagina03.png)

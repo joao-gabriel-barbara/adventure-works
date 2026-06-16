@@ -1,0 +1,19 @@
+# na raiz do projeto
+cat > .gitignore << 'EOF'
+database/
+
+# CSVs exportados
+powerbi/data/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Conda
+.conda/
+
+# OS
+.DS_Store
+Thumbs.db
+EOF

@@ -2,12 +2,9 @@
 cat > .gitignore << 'EOF'
 database/
 
-echo "data/" >> .gitignore
-
-
 # CSVs exportados
 powerbi/data/
-
+data/
 # Python
 __pycache__/
 *.pyc
